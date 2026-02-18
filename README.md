@@ -41,16 +41,6 @@ Client ↔ Server model
 
 ---
 
-## 📁 Project Structure
-SecureChat-X/ 
-│ 
-├── server.py        # WebSocket server 
-├── client.py        # Chat client 
-├── crypto.py        # Encryption logic 
-├── auth.py          # Authentication system 
-├── users.json       # User database 
-└── requirements.txt # Dependencies
----
 
 ## ⚙️ Installation
 
