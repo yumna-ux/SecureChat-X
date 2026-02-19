@@ -45,7 +45,8 @@ Client ↔ Server model
 ## ⚙️ Installation
 
 ### 1. Clone repository
-git clone https://github.com/yumna-ux/SecureChat-X.git� 
+git clone https://github.com/yumna-ux/SecureChat-X
+
 cd SecureChat-X
 
 ### 2. Install dependencies
